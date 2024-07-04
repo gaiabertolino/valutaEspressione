@@ -1,1 +1,5 @@
-The project has been developed as the final project for the course in Object-Oriented Programming offered during the second year of the Bachelor's degree program in Computer Engineering at the University of Calabria. A Java class has been created to implement the evaluation of arithmetic expressions, including parentheses.
+# valutaEspressioneProject
+
+This project was developed as part of a degree coursework exam for the course of Object-Oriented Programming during the second year of my Bachelor's degree in Computer Engineering.
+
+Java-based project to perform evaluation of arithmetic expressions, including parentheses.
